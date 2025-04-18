@@ -58,6 +58,10 @@
     "You discover a #weapontype# in the #locationfull#. An image is engraved on it, depicting a #artdescriptor#. The quality of the engraving is #qualityJudgement#."
   ],
 
+  "esttring": [
+    "lll"
+      ],
+
   "Reply": [
     "You must venture to the #locationfull# and retrieve the #magicdescriptor# #item# found there",
     "You must journey to #locationfull#. There you will find a #beastdescriptor# #beast#.",
