@@ -1,0 +1,299 @@
+{
+  "main": [
+    "You are #attacktype# by a #beastdescriptor# #beast#. In response, you #outcomeaction#.",
+    "You entered a #location# and found a #magicitem#. In response, you #outcomeaction#.",
+    "You entered a #location# and found a #magicitem#.",
+    "You entered a #location# and found a #item#.",
+    "You noticed a #beastdescriptor# #beast# hiding in the #location#. It #attacktype# you!",
+    "You #attacktype# a #beast#. In response, it #outcomeaction#.",
+    "A #beastdescriptor# #beast# waits in the #locationfull#. Should you slay it, you will receive a #magicitem#.",
+    "A #beastdescriptor# #beast# searches the #locationfull#, seeking #item#s for its master.",
+    "You discovered a riddle in the #location#. It pointed you in the direction of a #magicitem#.",
+    "You stumbled upon a #location# and discover a shrine scattered with offerings of #item#s. In response, you #outcomeaction#.",
+    "In a moment of weakness, a #beastdescriptor# #beast# #outcomeaction#.",
+    "In a moment of weakness, a #personfull# #outcomeaction#.",
+    "Exploring the #location#, you met a #personfull#. They offered you a #item# and, in response you #outcomeaction#.",
+    "A #personfull# suddenly appeared! However, in response #pronoun# #outcomeaction#.",
+    "You are approached by a #personfull#. #pronounCapitalized# says, '#dialog#'.",
+    "You hear a voice from somewhere in the #locationdescriptor# #location#, it says: '#dialog#'.",
+    "You eavesdrop on two #personbiology#s who are in a #location#. One says to the other: '#dialog#'.",
+    "You see a #personfull# wandering the streets, saying '#dialog#'.",
+    "The #personfull# looks at you. '#dialog#', #pronoun# says.",
+    "You spot a #item# on the ground. Picking it up, you notice it has a message engraved in it: '#Reply#'.",
+    "A #beastdescriptor# #personbiology# approaches you. #pronounCapitalized# whispers '#dialog#'.",
+    "To your surprise, a beast hiding in the #location# says, '#dialog#'.",
+    "A #personfull# passes by you in the #location#, walking alongside a #beast#.",
+    "You see a pair of #personrace# walk by you in the #location#. One says to the other, '#dialog#'.",
+    "The #locationfull# is full of a group of #beastdescriptor# #beast#. They #attacktype# you!",
+    "A #personfull# stands guard over a #magicitem# in the #locationfull#.",
+    "The #personfull# charges at you, brandishing a #weaponfull#. In response, you #outcomeaction#.",
+    "The #personfull# dies, their #weaponfull# dropping to their side.",
+    "You #attacktype# the #personfull# with your #weaponfull#. In response, #pronounCapitalized# #outcomeaction#.",
+    "The #personfull# walked by. #pronounCapitalized# is holding a #weaponfull#.",
+    "The #personfull# barely #attacktype# the #beastdescriptor# #beast# with their #weaponfull#.",
+    "Seeing a #beast# in the #locationfull#, a #personfull# #outcomeaction#.",
+    "Peering into the #locationfull#, you see a group of #numberCount# #personrace# doing battle with a #beastfull#.",
+    "You are surrounded by a gang of #personbiology#, each brandishing a #weaponfull#. They rob you of your #magicdescriptor# #item#.",
+    "An important-looking #personfull# strolls by, wearing a #magicdescriptor# #armortype#.",
+    "The #beastdescriptor# wrestles the #magicdescriptor# #weapontype# from the #personfull#'s hands.",
+    "The #personfull# is #attacktype# by #beastdescriptor# #beast#. Their #magicdescriptor# #armortype# is torn by the attack!",
+    "You uncover the corpse of a #personbiology# in the #locationdescriptor# #location#. They are wearing a #magicarmor#, which you take.",
+    "You uncover the corpse of a #personbiology# in the #locationdescriptor# #location#. They are clutching a #magicweapon#, which you take.",
+    "You uncover the corpse of a #personbiology# in the #locationdescriptor# #location#. They are clutching a #magicdescriptor# #item#, which you take.",
+    "A group of #numberCount# #personrace# walk by, each wearing a matching #magicarmor#. '#exclaimation#', they chant out in unison.",
+    "A #personfull# steps in front of you in the #locationdescriptor# #location#. Without a word, #pronoun# holds out a #weaponfull#.",
+    "You hear someone within the #locationdescriptor# #location# desperately cry out, '#exclaimation#'.",
+    "A #personfull# is #attacktype# by a #beastdescriptor# #beast#, causing them to shout out, '#exclaimation#' in surprise.",
+    "A wounded #personfull# lay on the ground in the #location#. In their final moments, they look to you and say, '#Reply#'.",
+    "One night, a #magicdescriptor# #beast# appears to you in your dreams. It cries out to you: '#Reply#'.",
+    "A #personfull# wearing a #magicarmor# approaches you, asking if you are in need of a travelling companion. They can be hired for only #numberCount# gold.",
+    "You pass a statue depicting #artdescriptor# in the #locationfull#. The quality is #qualityJudgement#.",
+    "A #personfull# is trying to sell you a #armortype#. The quality is #qualityJudgement#.",
+    "A #personfull# is trying to sell you a #weapontype#. The quality is #qualityJudgement#.",
+    "A #personfull# is trying to sell you a #item#. The quality is #qualityJudgement#.",
+    "You appraise the combat abilities of the #personfull#. Their movements are #qualityJudgement#.",
+    "As you are hit on by the #personfull#, you assess their appearance. Their looks are #qualityJudgement#.",
+    "You discover a #item# in the #locationfull#. An image is engraved on it, depicting a #artdescriptor#. The quality of the engraving is #qualityJudgement#.",
+    "You discover a #armortype# in the #locationfull#. An image is engraved on it, depicting #artdescriptor#. The quality of the engraving is #qualityJudgement#.",
+    "You discover a #weapontype# in the #locationfull#. An image is engraved on it, depicting a #artdescriptor#. The quality of the engraving is #qualityJudgement#."
+  ],
+
+  "Reply": [
+    "You must venture to the #locationfull# and retrieve the #magicdescriptor# #item# found there",
+    "You must journey to #locationfull#. There you will find a #beastdescriptor# #beast#.",
+    "A #beastdescriptor# #beast# waits in #location#. Pay tribute to it by giving it a #item#.",
+    "Seek out the #personfull#, who lives in the #location#. #pronounCapitalized# will tell you what to do next.",
+    "A #personfull# is a wanted criminal. #pronounCapitalized# travels with a #beast#. You must stop them.",
+    "A #personfull# is well-known to have a #magicdescriptor# #item#. Offer them a #item# and it will be yours.",
+    "If you do not find a #personfull#, then the world will come to an end.",
+    "A #personfull# lives in the #location#. #pronounCapitalized# can tell you more.",
+    "A #beastdescriptor# #beast# #attacktype# a #personjob# at the #location#. Put a stop to it.",
+    "The #personjob# that was hired to kill #personfull# in the #location# failed. Finish the job.",
+    "A #personbiology# #attacktype# a #personjob# in the #location#. Stop them from hurting anyone else.",
+    "The #magicdescriptor# #item# in the #locationfull# has gone missing. Find and return it to the #personfull#.",
+    "The #weaponfull# in the #locationfull# has gone missing. Find and return it to the #personfull#."
+  ],
+
+  "dialog": [
+    "Look out; I saw a #beast# in the #location#.",
+    "Hail friend, have you seen my #item# anywhere?",
+    "Help! A #beast# is attacking the #location#!",
+    "I heard a rumor that the #location# has a #magicdescriptor# #item# hidden somewhere within it...",
+    "I want to travel to the #location#, but I'm scared...",
+    "I heard there's a #beast# that carries a #magicdescriptor# #item# on its person.",
+    "Get out of my face, you #beast#!",
+    "Have you seen my friend anywhere? #pronounCapitalized# is a #personfull#.",
+    "We need to kill that #beastdescriptor# #personjob#",
+    "Have you seen my #item#? I seem to have misplaced it.",
+    "I'm hunting a #beast#, have you seen any around here?",
+    "The next #personjob# that shows its face around here is dead.",
+    "Which way to the #location#?",
+    "Gods...my #weapontype# is #weapondescriptor#.",
+    "I need to buy a new #weapontype#.",
+    "Now where did I put my #weapontype#?",
+    "Last time I was attacked by a #weaponfull# I barely made it out alive.",
+    "I can't wait to find a reason to use my #weaponfull#."
+  ],
+
+  "personfull": [
+    "#persondescriptor# #personrace# #personjob#"
+  ],
+
+  "personbiology": [
+    "#personjob# #personrace#"
+  ],
+
+  "persondescriptor": [
+    "kindly","shy","coy","flirty","fearful","evil","good","matronly","angry","fierce","sorrowful","repentant","annoyed","pissed off","fancy","wealthy","poor","homeless","suspicious","watchful",
+    "stoic","brash","brazen","upset","boastful","apologetic","beautiful","dashing","unsightly","scary","creepy","weird","dorky","nerdy","cool","heartless","cold","furious","drunk","slovenly","charming","adorable",
+    "short","tall","pale","tanned","mopey","long-haired","short-haired","voluptuous","bald","bespectacled","disfigured","disabled","wicked","intimidating","unhelpful","clumsy","dopey","high","laughing","mirthful",
+  "shapely"
+  ],
+
+  "personjob": [
+    "adventurer","druid","wizard","mage","witch","spellcaster","student","arcane student","apprentice","guerilla fighter","warrior","soldier","marine","sailor","blacksmith","shopkeeper","store clerk",
+    "priest","priestess","prostitute","king","queen","prince","princess","lord","lady","explorer","inventor","engineer","game master","pilot","chauffeur","landlord","cop","artist","musician","architect",
+    "serf","peasant","revolutionary","fascist","spy","president","teacher","mentor","monk","goddess","god","actor","waiter","guard","night watchman", "militiaman",
+    "scientist","arborist","thatcher","butcher","executioner","potter","cook","doctor","surgeon","fisherman","lumberjack","mason","carpenter","hunter","archer","woodsman","ranger","merchant","trader","noble",
+    "crossbowman","cleaner","cheese maker"
+  ],
+
+  "personrace": [
+    "human","human","human","human","human","human","human","kobold","troll","elf","gnoll","goblin","dwarf","halfling","half-elf","half-orc","dark elf","drow","giant","amazon","gnome","centaur",
+    "orc","demon","kobold","werewolf","wolfman","badgerman","undead","vampire","skeleton","ghost","fairy"
+  ],
+
+  "pronoun": [
+    "he",
+    "she"
+  ],
+  "pronounCapitalized": [
+    "He",
+    "She"
+  ],
+
+  "beastdescriptor": [
+    "large","massive","tiny","fat","cute","evil","kind","merciful","angry","ferocious","cursed","elderly","terrible","wounded","muscular","slimy","wicked","crazed", "strong", "wicked", "ancient", "powerful", "small"
+  ],
+  "attacktype": [
+    "mauled","rended","scratched","assailed","lacerated","struck","hit","ambushed","attacked","surprised", "wacked", "smacked", "nicked", "slapped", "beat", "battered", "pummelled", "damaged", "hurt"
+  ],
+  "beast": [
+    "rabbit","hare","vulture","hawk","eagle","shrew","rat","grue","cluwne","critter","ghost","monkey","blob","ancient horror","yeti","chimp","wolf","warg","cyclopes","minotaur","feral dog","cat","kitten",
+    "alpha wolf","fish","zombie","skeleton","beast","horse","molerat","fire ant","ant","spider","giant spider","giant ant","ghoul","crypt horror","alien","dragon","feral rabbit","carp","giant","hydra",
+    "roc","ettin","aardvark","armadillo","badger","owl","bobcat","bear","capybara","kiwi","giant roach","deer","dingo","elephant","rhino","hippo","fly","harpy","ogre","imp","goblin","gorlak","troll",
+    "mycanoid", "scamp"
+  ],
+  "beastfull": [
+    "#beastdescriptor# #beast#"
+  ],
+
+  "outcomeaction": [
+    "barely managed to get away",
+    "fought valiantly until the end",
+    "fled and dropped a #magicdescriptor# #item#",
+    "fled and dropped a #item#",
+    "casted a spell with a #magicdescriptor# #item#",
+    "decided it wasn't worth it",
+    "gave up",
+    "fell over",
+    "fought back effortlessly",
+    "overcame it",
+    "cried for help",
+    "laughed hysterically",
+    "slinked back into the shadows",
+    "broke away",
+    "dropped their #item#",
+    "caught a horrible disease",
+    "gained a level",
+    "became poisoned",
+    "became cursed",
+    "received a blessing",
+    "lost morale",
+    "lost a level",
+    "pooped",
+    "peed a little",
+    "got lost",
+    "became adept at a skill",
+    "improved a skill",
+    "dropped dead",
+    "pretended to be dead",
+    "locked up from fear",
+    "began crying",
+    "heard something",
+    "laughed uncontrollably",
+    "had a revelation",
+    "forgot something",
+    "threw up",
+    "fought valiantly",
+    "ran into battle",
+    "collapsed",
+    "cried out in pain",
+    "cried out in fear",
+    "bled out"
+  ],
+  "exclaimation": [
+    "Bark!",
+    "Gods!",
+    "Yeesh!",
+    "Roar!",
+    "Meow!",
+    "Yipp!",
+    "Amen!",
+    "Praise!",
+    "Protect me, #beast#!",
+    "Wow!",
+    "Zonks!",
+    "Egad!",
+    "Augh!",
+    "Owie!",
+    "Shoot!",
+    "Ballacks!",
+    "Rah!",
+    "Yeep!",
+    "Rargh!",
+    "Bah!",
+    "Mah!",
+    "#godName!",
+    "By #godName#!",
+    "Dear #godName#!"
+  ],
+
+  "magicdescriptor": [
+    "golden","cursed","sentient","talkative","vibrating","glowing","evil","warm","cold","broken","deteriorating","lightly-used",
+    "edible","flaming","vine-covered","ruby-studded","iron-studded","plasma","slimy","lazer-powered","levitating","scrungly",
+    "offensive","smelly","moist","rotten","potent","diamond","diamond-studded","zinc","cubic zirconia","radiant","commanding",
+    "unsettling","liquid","silver","ruby","sapphire"
+  ],
+
+  "item": [
+    "orb","box","chest","arrow","bolt","twig","grenade","backpack","dung","briefcase","kite","pillow","blanket","pot","goblet","glass","crystal","gem","necklace","ring","bracelet","watch","medicine","rod",
+    "book","tome","scroll","parchment","textile","lamp","fork","knife","spoon","coin","coinpurse","key","bottle","letter","matchbook","match","sack","trash","newspaper","tome"
+  ],
+  "locationdescriptor": [
+    "dusty","spacious","dark","well-lit","stinky","dank","cramped","ancient","beautiful","crowded","clean","bare","cold","hot","old-fashioned","trendy","eerie","forgotten","hallowed","sacred","cursed",
+    "dream-like","messy","cluttered","cozy"
+  ],
+  "location": [
+    "den","living quarters","barracks","store","storeroom","warehouse","stable","gas station","secret room","crevice","cave","campsite","clearing","building","alchemy lab","secret lab","witch's hut",
+    "temple hall","temple backroom","burrow","lair","secret lair","car","hollow","house","cottage","office room","closet","janitor's closet","carriage","town","classroom","church","hall","hallway",
+    "gymnasium","mausoleum","crypt","sepulchre","grave","dungeon","hole","well","basement", "pond", "bathroom", "sauna", "crevice", "grotto", "cavern", "lake", "shipwreck", "ruins", "city", "town", "village",
+  "volcano", "digsite", "hamlet", "thicket"
+  ],
+  "locationfull": [
+    "#locationdescriptor# #location#"
+  ],
+  "weapontype": [
+    "sword","cutlass", "sling", "greatsword","falchion","glaive","wand","staff","hammer","mace","pike","lance","longbow","shortbow","crossbow","hand crossbow","scythe","rapier", "pike",
+    "shield", "warpick", "buckler", "tower shield", "sickle", "katana", "gun", "musket", "greataxe", "greathammer", "flail", "flanged mace", "club", "spear", "quarterstaff", "sabre", "dagger", "kitchen knife",
+    "horse chopper", "shortsword", "halberd", "trident", "whip"
+  ],
+  "armortype": [
+    "underwear", "shorts", "gauntlet", "breeches", "pauldron", "armor", "gambeson", "helm", "full helm", "goggles", "cuirass", "breastplate", "graves", "vambrace", "cape", "cloak", "scarf", "keffiyeh", "hijab",
+  "glove", "glasses", "boots", "shoes", "slippers", "pants", "trousers", "tie", "jacket", "dress", "skirt", "plated skirt", "hat", "swimsuit", "bra", "splint mail", "banded armor", "armor", "chainmail", "leather armor"
+  ],
+  "weapondescriptor": [
+    "studded", "copper", "brass", "bronze", "neotite", "iron", "bloody", "rusty", "warped", "oily", "oversized", "dimunitive", "mithril", "adamantine", "cursed", "blessed", "holy", "evil", "magical", "sentient",
+    "powerful", "concealed", "tactical", "executioner's", "vibrating", "healing", "crooked", "broken", "sheathed", "ancient", "fine", "masterwork", "invisible", "flaming", "electric", "wooden", "cheap",
+   "heavy", "ornate", "golden", "ceremonial", "small", "exotic", "hand-crafted", "improvised", "long"
+  ],
+  "weaponfull": [
+    "#weapondescriptor# #weapontype#"
+  ],
+  "armorfull": [
+    "#weapondescriptor# #armortype#"
+  ],
+  "magicweapon": [
+    "#magicdescriptor# #weapontype#"
+  ],
+  "magicarmor": [
+    "#magicdescriptor# #armortype#"
+  ],
+  "magicitem": [
+    "#magicdescriptor# #item#"
+  ],
+  "numberCount": [
+    "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"
+  ],
+  "qualityJudgement": [
+    "extravagent", "beautiful", "fantastic", "gorgeous", "stunning", "okay", "fine", "so-so", "mediocre", "middling", "shoddy", "ugly", "hideous", "unfortunate", "awful", "amateurish", "terrible",
+    "laughable", "pathetic", "childish"
+    ],
+  "godName": [
+    "Talos", "Phodon", "Betrus", "Faeyar", "Ubris", "Agreus", "Lonrus", "Thoddon", "Rhoorr", "Phedar", "Fezotl", "Izien", "Aren", "Osaldin", "Dhungus", "Dhesis", "Giasis", "Esean", "Azura",
+  "Roen", "Qenren", "Xihdite", "Drirena", "Assyan", "Rhiasis", "Diodine", "Zila", "Ikitia", "Dranmera", "Curena", "Aldonna", "Phonera", "Ruphine","Aeris", "Palutena", "Zeus", "Raiden",
+  "Asura", "Akatosh", "Arceus", "Nayru"
+  ],
+  "artdescriptor": [
+    "a #personfull# doing battle with a #beastfull#",
+    "a #beastfull# felling a #personfull",
+    "the Divine #godName# paying a visit to a #personfull#",
+    "a #personfull# discovering a #magicitem# in a #location#",
+    "a #personfull# dueling a #personfull#",
+    "a #personfull# exploring a #locationfull#",
+    "a #personfull# fending off a group of #numberCount# #race#",
+    "a #personfull# wielding a #weaponfull#",
+    "a #personfull# wearing #armorfull#"
+  ]
+
+}
