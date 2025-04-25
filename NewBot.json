@@ -1,15 +1,80 @@
 {
+
+  "_TO DO":[
+    "REACTIONS TO CERTAIN EVENTS (e.g. 'runs away', 'fights to the death', etc",
+    "SPELLCASTING AND SPELLCASTING EVENTS (e.g. 'dusty cone', 'summon beast')"
+  ],
+
+
   "FirstNameMasc": [
-    "Aseir", "Haseid", "Kheed", "Zasheir", "Fodel", "Glar", "Grigor", "Igan", "Ivor", "Kosef", "Mival", "Pavel", "Sergor", "Darvin", "Dorn", "Evendur", "Gorstag", "Helm", "Morn", "Randal", "Stedd", "Ander", "Blath", "Bran", "Frath", "Geth", "Lander", "Luth", "Malcer", "Stor", "Taman", "Bareris", "Kethoth", "Mumed", "Urhur", "Borivik", "Faurgar", "Jandar", "Kanithar", "Madislak", "Ralmevik", "Shaumar", "Vladislak", "Chen", "Chi", "Fai", "Jiang", "Jun", "Lian", "Long", "Meng", "Shan", "Wen", "Anton", "Diero", "Marcon", "Pieron", "Rimardo", "Romero", "Salazar", "Umbero", "Adrik", "Alberich", "Baern", "Barendd", "Brottor", "Bruenor", "Dain", "Darrak", "Delg", "Eberk", "Einkil", "Fargrim", "Flint", "Gardain", "Harbek", "Kildrak", "Morgran", "Orsik", "Oskar", "Rangrim", "Rurik", "Taklinn", "Thoradin", "Thorin", "Tordek", "Travok", "Ulfgar", "Veit", "Vondal", "Adran", "Aelar", "Aramil", "Arannis", "Aust", "Berrian", "Carric", "Enialis", "Erdan", "Erevan", "Galinndan", "Hadarai", "Heian", "Himo", "Immeral", "Laucian", "Mindartis", "Paelias", "Peren", "Quarion", "Riardon", "Rolen", "Soveliss", "Thamior", "Tharivol", "Theren", "Varis"
+    "Aseir", "Haseid", "Kheed", "Zasheir", "Fodel", "Glar", "Grigor", "Igan", "Ivor", "Kosef", "Mival", "Pavel", "Sergor", "Darvin", "Dorn", "Evendur", "Gorstag", "Helm", "Morn", "Randal", "Stedd", "Ander", "Blath", "Bran", "Frath", "Geth", "Lander", "Luth", "Malcer", "Stor", "Taman", "Bareris", "Kethoth", "Mumed", "Urhur", "Borivik", "Faurgar", "Jandar", "Kanithar", "Madislak", "Ralmevik", "Shaumar", "Vladislak", "Chen", "Chi", "Fai", "Jiang", "Jun", "Lian", "Long", "Meng", "Shan", "Wen", "Anton", "Diero", "Marcon", "Pieron", "Rimardo", "Romero", "Salazar", "Umbero", "Adrik", "Alberich", "Baern", "Barendd", "Brottor", "Bruenor", "Dain", "Darrak", "Delg", "Eberk", "Einkil", "Fargrim", "Flint", "Gardain", "Harbek", "Kildrak", "Morgran", "Orsik", "Oskar", "Rangrim", "Rurik", "Taklinn", "Thoradin", "Thorin", "Tordek", "Travok", "Ulfgar", "Veit", "Vondal", "Adran", "Aelar", "Aramil", "Arannis", "Aust", "Berrian", "Carric", "Enialis", "Erdan", "Erevan", "Galinndan", "Hadarai", "Heian", "Himo", "Immeral", "Laucian", "Mindartis", "Paelias", "Peren", "Quarion", "Riardon", "Rolen", "Soveliss", "Thamior", "Tharivol", "Theren", "Varis", "Steve", "Lyle", "Stuart", "George", "Grant", "Mark", "Gregory", "Donald", "Marcas", "John", "Jimmy", "Frodo", "Sam", "Thomas", "Tom", "Earl", "Bob", "Billy", "Thom", "Fred", "Frank", "Harold", "Kumar", "Duy", "Jonathan"
   ],
 
   "FirstNameFemme": [
-    "Atala", "Ceidil", "Hama", "Jasmal", "Meilil", "Yasheira", "Zasheida", "Arveene", "Esvele", "Jhessail", "Kerri", "Lureene", "Miri", "Rowan", "Tessele", "Alethra", "Kara", "Katernin", "Mara", "Natali", "Olma", "Tana", "Zora", "Betha", "Cefrey", "Kethra", "Mara", "Olga", "Silifrey", "Westra", "Arizima", "Chathi", "Nephis", "Nulara", "Murithi", "Sefris", "Thola", "Umara", "Zolis", "Hulmarra", "Immith", "Imzel", "Navarra", "Shevarra", "Tammith", "Yuldra", "Bai", "Chao", "Jia", "Lei", "Mei", "Qiao", "Shui", "Tai", "Balama", "Dona", "Faila", "Jalana", "Luisa", "Marta", "Quara", "Selise", "Vonda"
+    "Atala", "Ceidil", "Hama", "Jasmal", "Meilil", "Yasheira", "Zasheida", "Arveene", "Esvele", "Jhessail", "Kerri", "Lureene", "Miri", "Rowan", "Tessele", "Alethra", "Kara", "Katernin", "Mara", "Natali", "Olma", "Tana", "Zora", "Betha", "Cefrey", "Kethra", "Mara", "Olga", "Silifrey", "Westra", "Arizima", "Chathi", "Nephis", "Nulara", "Murithi", "Sefris", "Thola", "Umara", "Zolis", "Hulmarra", "Immith", "Imzel", "Navarra", "Shevarra", "Tammith", "Yuldra", "Bai", "Chao", "Jia", "Lei", "Mei", "Qiao", "Shui", "Tai", "Balama", "Dona", "Faila", "Jalana", "Luisa", "Marta", "Quara", "Selise", "Vonda", "Stephanie", "Steph", "Ana", "Anna", "Anne", "Beth", "Bethany", "Elizabet", "Molly", "Marcy", "Flora", "Eleanor", "Tori", "Maitilda", "Mary", "Phoebe", "Taliya", "Tanya", "Lorelei", "Jessie", "Jess", "Aliya", "Penelope", "Heather", "Wren", "Gwen", "Queenie", "Beth", "Ophelia", "Deandra", "Dee", "Crissie", "Christy", "Helena", "Helen", "Victoria", "Vicky", "Dawn", "Ira", "Cleo", "Chloe", "Juniper", "Willow", "Darcy", "June", "Ursula", "Nancy", "Stella", "Hope", "Harmony", "Love", "Truth", "Polly", "Pippy", "Samantha", "Aelwyn", "Dalia", "Delia", "Ivy", "Sammie", "Jonnie", "Kylie", "Louise", "Lisa", "Lily", "Sophia", "Sophie", "Rebecca", "Becky", "Allie", "Harmony", "Frida", "Melody", "Inhye", "Cassandra", "Elissa", "Elysia", "Ella", "Bella", "Veronica", "Morticia", "Friday", "Debbie"
   ],
 
   "LastName": [
     "Dumein", "Jassan", "Khalid", "Mostana", "Pashar", "Rein", "Amblecrown", "Buckman", "Dundragon", "Evenwood", "Greycastle", "Tallstag", "Bersk", "Chernin", "Dotsk", "Kulenov", "Marsk", "Nemetsk", "Shemov", "Starag", "Brightwood", "Helder", "Hornraven", "Lackman", "Stormwind", "Windrivver", "Anskuld", "Fezim", "Hahpet", "Nathandem", "Sepret", "Chergoba", "Dyernina", "Ulmokina", "Chien", "Huang", "Kao", "Kung", "Lao", "Ling", "Mei", "Pin", "Shin", "Sum", "Tan", "Wan", "Agosto", "Astorio", "Calabra", "Domine", "Falone", "Marivaldi", "Pisacar"
   ],
+
+  "TheMoniker":[
+    "The #Beast.capitalize#",
+    "The #Animal.capitalize#",
+    "The #QualityRating.capitalize#",
+    "The #ItemAppearance.capitalize#",
+    "The #LocationAppearance.capitalize#",
+    "The #HumanoidPhysicalDescriptor.capitalize#",
+    "The #HumanoidPersonalityDescriptor.capitalize#",
+    "The #Relationship.capitalize#"
+  ],
+
+  "FullNameAndMoinker":[
+    "#FirstNameNeutral# #TheMoniker# #LastName#"
+  ],
+
+  "FirstNameNeutral":[
+    "#FirstNameFemme#",
+    "#FirstNameMasc#"
+  ],
+
+  "FullNameFemme":[
+    "#FirstNameFemme# #LastName#"
+  ],
+  "FullNameMasc":[
+    "#FirstNameMasc# #LastName#"
+  ],
+  "FullNameNeutral":[
+    "#FirstNameFemme# #LastName#",
+    "#FirstNameMasc# #LastName#"
+  ],
+
+      "Relationship":[
+      "girlfriend",
+      "boyfriend",
+      "fiance",
+      "partner",
+      "companion",
+      "friend",
+      "best friend",
+      "rival",
+      "enemy",
+      "archnemesis",
+      "lover",
+      "ally",
+      "nephew",
+      "niece",
+      "son",
+      "daughter",
+      "father",
+      "mother",
+      "uncle",
+      "liege",
+      "bodyguard",
+      "consort",
+      "mistress",
+      "master"
+    ],
 
   "ItemType": [
     "orb","box","chest","arrow","bolt","twig","grenade","backpack","dung","briefcase","kite","pillow","blanket","pot","goblet","glass","crystal","gem","necklace","ring","bracelet","watch","medicine","rod", "book","tome","scroll","parchment","textile","lamp","fork","knife","spoon","coin","coinpurse","key","bottle","letter","matchbook","match","sack","trash","newspaper","tome", "ring", "jewel"
@@ -37,7 +102,7 @@
     ],
 
     "ArmorType": [
-      "underwear", "shorts", "gauntlet", "breeches", "pauldron", "armor", "gambeson", "helm", "full helm", "goggles", "cuirass", "breastplate", "graves", "vambrace", "cape", "cloak", "scarf", "keffiyeh", "hijab", "glove", "glasses", "boots", "shoes", "slippers", "pants", "trousers", "jacket", "dress", "skirt", "plated skirt", "hat", "swimsuit", "bra", "splint mail", "banded armor", "armor", "chainmail", "leather armor", "turban", "robe"
+      "underwear", "shorts", "gauntlet", "breeches", "pauldron", "armor", "gambeson", "helm", "full helm", "goggles", "cuirass", "breastplate", "graves", "vambrace", "cape", "cloak", "scarf", "keffiyeh", "hijab", "glove", "glasses", "boots", "shoes", "slippers", "pants", "trousers", "jacket", "dress", "skirt", "plated skirt", "hat", "swimsuit", "bra", "splint mail", "banded armor", "armor", "chainmail", "leather armor", "turban", "robe", "binder", "bodice", "corset"
     ],
 
     "MeleeWeaponFull":[
@@ -64,11 +129,17 @@
     ],
 
     "Animal": [
-      "rabbit","hare","vulture","hawk","eagle","shrew","rat","grue","cluwne","critter","ghost","monkey","chimp","wolf","warg","feral dog","cat","kitten", "alpha wolf","fish","horse","molerat","fire ant","ant","spider","carp","aardvark","armadillo","badger","owl","bobcat","bear","capybara","kiwi","deer","dingo","elephant","rhino","hippo"
+      "rabbit","hare","vulture","hawk","eagle","shrew","rat","critter","monkey","chimp","wolf","warg","feral dog","cat","kitten","fish","horse","molerat","fire ant","ant","spider","carp","aardvark","armadillo","badger","owl","bobcat","bear","capybara","kiwi","deer","dingo","elephant","rhino","hippo"
     ],
 
     "Beast":[
-      "yeti", "warg", "cyclopes", "minotaur", "zombie", "skeleton", "beast", "ghoul", "crypt horror", "alien", "dragon", "hydra", "roc", "ettin", "harpy", "imp", "goblin", "gorlak" ,"troll", "gnoll", "kobold", "gremlin", "yeek", "slime", "saurian", "scamp", "ogre"
+      "yeti", "warg", "cyclopes", "minotaur", "zombie", "skeleton", "beast", "ghoul", "crypt horror", "alien", "dragon", "hydra", "roc", "ettin", "harpy", "imp", "goblin", "gorlak" ,"troll", "gnoll", "kobold", "gremlin", "yeek", "slime", "saurian", "scamp", "ogre", "cluwne", "gritten"
+    ],
+
+    "AnyCreature":[
+      "#Beast#",
+      "#Animal#",
+      "#HumanoidRace#"
     ],
 
     "NonHumanoidPhysicalDescriptor": [
@@ -88,7 +159,7 @@
     ],
 
     "HumanoidPersonalityDescriptor": [
-      "kindly","shy","coy","flirty","fearful","evil","good","matronly","angry","fierce","sorrowful","repentant","annoyed", "pissed","poor","homeless","suspicious","watchful", "stoic","brash","brazen","upset","boastful","apologetic","dashing","unsightly","scary","creepy","weird","dorky","nerdy","cool","heartless","cold","furious","drunk","slovenly","charming","adorable","mopey","disabled","wicked","intimidating","unhelpful","clumsy","dopey","high","mirthful", "charismatic", "stately"
+      "kindly","shy","coy","flirty","fearful","evil","good","matronly","angry","fierce","sorrowful","repentant","annoyed", "pissed","poor","hopeless","suspicious","watchful", "stoic","brash","brazen","upset","boastful","apologetic","dashing","unsightly","scary","creepy","weird","dorky","nerdy","cool","heartless","cold","furious","drunk","slovenly","charming","adorable","mopey","disabled","wicked","intimidating","unhelpful","clumsy","dopey","high","mirthful", "charismatic", "stately"
     ],
 
     "HumanoidPhysicalDescriptor":[
@@ -96,7 +167,7 @@
     ],
 
     "PresentEmotion":[
-      "dread", "longing", "fear", "hatred", "nausea", "anticipation", "hope", "joy", "confusion", "excitement", "rage", "tranquility", "peace", "nothing at all", "empty", "misery", "nervous", "anxious", "awe", "wonder", "shock"
+      "dread", "longing", "fear", "hatred", "nausea", "anticipation", "hope", "joy", "confusion", "excitement", "rage", "tranquility", "peace", "nothing at all", "empty", "misery", "nervous", "anxious", "awe", "wonder", "shock", "despair", "caution"
     ],
 
     "MeleeAttackType": [
@@ -106,10 +177,15 @@
       "hit", "shot"
     ],
 
-    "Pronoun": [
+    "SubjectPronoun": [
       "he",
       "she",
       "they"
+    ],
+    "ThirdPersonPronoun": [
+      "him",
+      "her",
+      "them"
     ],
 
     "Exclaimation": [
@@ -128,6 +204,27 @@
       "#ItemAppearance# #ItemType#"
     ],
 
+    "NamedLocation":[
+      "#FirstNameNeutral#'s #Location.capitalize#"
+    ],
+
+    "NamedObject":[
+      "#FirstNameNeutral#'s #ItemType#",
+      "#FirstNameNeutral#'s #MeleeWeaponType#",
+      "#FirstNameNeutral#'s #RangedWeaponType#"
+    ],
+
+    "AnyWeaponType":[
+      "#MeleeWeaponType#",
+      "#RangedWeaponType#"
+    ],
+
+    "AnyObject":[
+      "#ItemType#",
+      "#MeleeWeaponType#",
+      "#RangedWeaponType#"
+    ],
+
     "Incident":[
       "a #HumanoidPhysicalFull# doing battle with a #NonHumanoidFull#",
       "a #HumanoidPhysicalFull# hunting a #Animal#",
@@ -140,57 +237,148 @@
       "a group of #NonHumanoidFull# training their #RangedWeaponType# skills",
       "a #NonHumanoidFull# feeding on the carcass of a #Animal#",
       "a #HumanoidPersonalityFull# unearthing a #ItemFull#",
-      "a #HumanoidPersonalityFull# searching a #LocationFull# for a #ItemFull#",
+      "a #HumanoidPersonalityFull# searching a #Location# for a #ItemFull#",
       "a #HumanoidPersonalityFull# nurturing a wounded #Beast# back to health",
       "a #HumanoidPersonalityFull# betraying a #HumanoidPersonalityFull# to steal a #ItemFull#",
-      "the burial of a #HumanoidPersonalityFull# alongside thier #ItemFull#",
-      "the unearthing of a #LocationFull#, rumored to house a #ItemFull#",
+      "the burial of a #HumanoidPersonalityFull# alongside their #ItemFull#",
+      "the unearthing of #NamedLocation#, a place which is rumored to house a #ItemFull#",
       "a #HumanoidPersonalityFull# who fights with a #MeleeWeaponType#",
       "a #HumanoidPersonalityFull# who fights with a #RangedWeaponType#",
       "a #HumanoidPersonalityFull# who is turned into #ItemMaterial# by a curse",
       "a #NonHumanoidFull# that can turn anything into #ItemMaterial#",
-      "a #HumanoidPersonalityFull# who knows nothing but #PresentEmotion#",
+      "a #HumanoidPersonalityFull# who is constantly feeling #PresentEmotion#",
       "an angry mob of #HumanoidRace# hunting a #Beast#",
       "a #NonHumanoidFull# wrestling a #MeleeWeaponFull# from a #HumanoidPersonalityFull#'s hands",
       "a lone #HumanoidPhysicalFull# single-handedly fighting an army of #HumanoidRace#",
       "a #HumanoidPhysicalFull# wandering in search of a #ItemFull#",
-      "a #NonHumanoidFull# terrorizing the #HumanoidRace# living in a #LocationFull#"
+      "a #NonHumanoidFull# terrorizing the #HumanoidRace# living in a #Location#",
+      "a hero named #FirstNameNeutral# #TheMoniker# returning from battle",
+      "the death of a #HumanoidPhysicalFull# known as #TheMoniker#",
+      "the birth of a #AnyCreature# prophet known as #TheMoniker#"
     ],
-  
+
+    "ConvoStatementCasual":[
+      "Lately, I've been feeling #PresentEmotion#",
+      "I miss #FirstNameNeutral#, my #Relationship#..",
+      "I'm so lost...",
+      "Been a while since I went to the #Location#",
+      "It's very #LocationAppearance# in here",
+      "Where did I put my #ItemType#..",
+      "Haven't seen #FirstNameNeutral# in a while",
+      "I wouldn't mind visiting the #Location#.",
+      "That #Beast# sure was #NonHumanoidPhysicalDescriptor#",
+      "That #HumanoidRace# sure was #HumanoidPhysicalDescriptor#",
+      "That #HumanoidRace# sure was #HumanoidPersonalityDescriptor#",
+      "That #Beast# fills me with #PresentEmotion#",
+      "That #HumanoidRace# fills me with #PresentEmotion#",
+      "The more things change, the more they stay the same",
+      "I'm so tired",
+      "I could use some rest",
+      "I tried sparring with a #MeleeWeaponType# once",
+      "I tried shooting with a #RangedWeaponType# once",
+      "I've never been to a #Location#",
+      "I've never been to #NamedLocation#",
+      "The other day I found a #ItemType# in the #Location#",
+      "The other day I found a #MeleeWeaponType# in the #Location#",
+      "Never been to a #Location# that I liked",
+      "Never been to a #Location# that wasn't #LocationAppearance#",
+      "Never met a #HumanoidRace# who wasn't #HumanoidPersonalityDescriptor#",
+      "Never met at #HumanoidRace# who was #HumanoidPhysicalDescriptor#",
+      "I got #MeleeAttackType# by a #Beast# once",
+      "I wonder how many #AnyCreature# there are in the world",
+      "I want a pet #AnyCreature#",
+      "If I had a pet #Animal# I'd name it #FirstNameNeutral#",
+      "My name is #FirstNameNeutral#, but everyone calls me #TheMoniker#",
+      "My name used to be #FirstNameFemme#, but now I go by #FirstNameMasc#",
+      "My name used to be #FirstNameMasc#, but now I go by #FirstNameFemme#",
+      "I've killed my fair share of #AnyCreature#",
+      "I think I just saw a #AnyCreature#",
+      "You seem like a #HumanoidPersonalityDescriptor# sort",
+      "You're so #HumanoidPhysicalDescriptor#",
+      "I'm actually related to #FullNameAndMoinker#, they're my #Relationship#",
+      "I heard #FirstNameNeutral#, the #HumanoidRace# #HumanoidOccupation# is the #Relationship# of #FirstNameNeutral# #TheMoniker#"
+    ],
+
+    "ConvoQuestionCasual":[
+      "Have you seen #FirstNameNeutral#?",
+      "Where did #FirstNameNeutral# go?",
+      "I'm looking for a #HumanoidPhysicalFull# named #FirstNameNeutral#. Have you seen them?",
+      "I'm looking for a #ItemType#. It's supposedly made of #ItemMaterial#. Have you seen it?",
+      "I lost my #MeleeWeaponType#, have you seen it?",
+      "I lost my #RangedWeaponType#, have you seen it?",
+      "I'm tracking a #Beast# that passed through here recently. Have you seen it?",
+      "I'm travelling to #NamedLocation#. Do you know where it it?",
+      "Have you seen a #AnyCreature# around here?",
+      "Do you know how to get to #NamedLocation#?",
+      "I'm seeking an artefact called #NamedObject#. It's apparently #ItemAppearance#. Have you seen it?",
+      "Do you know where I can find a #AnyObject# around here?",
+      "What do you know of the #HumanoidPersonalityFull# named #FullNameAndMoinker# who lives in #NamedLocation#?"
+    ],
+
+    "Action":[
+      "laugh",
+      "weep",
+      "think"
+    ],
+
+    "Reaction":[
+      "You feel #PresentEmotion#",
+      "In response, you #Action# for a moment"
+    ],
+
   "Reply": [
     "reply goes here"
   ],
 
-  "Test":[
-    "As you explore #LocationFull#, you see #Incident#. You feel #PresentEmotion#.",
-    "You find a #ItemType#. Engraved on it is a depiction of #Incident#. The quality is #QualityRating#.",
+  "Main":[
+    "As you explore #LocationFull#, you see #Incident#.",
+    "You find a #AnyObject# in the #Location#. Engraved on it is a depiction of #Incident#. The quality of the engraving is #QualityRating#.",
     "You meet a #HumanoidPersonalityFull# in the #LocationFull#. They recite a tale of #Incident#. The storytelling is #QualityRating#.",
-    "You entered a #LocationFull# and discovered a #ItemFull#. The craftsmanship is #QualityRating#.",
+    "You entered a #Location# and discovered a #ItemFull#. The craftsmanship is #QualityRating#.",
     "You stumbled upon a #LocationFull# and discover a shrine scattered with offerings of #ItemType#s.",
-    "Exploring the #LocationFull#, you met a #HumanoidPersonalityFull#. They offered you a #ItemFull#.",
+    "Exploring the #Location#, you met a #HumanoidPersonalityFull#. They offered you a #ItemFull# with an engraving of a #AnyCreature# on it.",
     "You #MeleeAttackType# the #HumanoidPhysicalFull#. As they fall, their #MeleeWeaponFull# drops to their side.",
-    "You uncover the body of a #HumanoidPhysicalFull#. They are wearing #ArmorFull#. The quality is #QualityRating#.",
-    "A #HumanoidPersonalityFull# is trying to sell you a #ArmorFull#. The quality is #QualityRating#.",
-    "A #HumanoidPersonalityFull# is trying to sell you a #MeleeWeaponFull#. The quality is #QualityRating#.",
-    "A #HumanoidPersonalityFull# is trying to sell you a #ItemFull#. The quality is #QualityRating#.",
+    "You uncover the body of a #HumanoidPhysicalFull#. They are wearing a #ArmorFull#. The quality is #QualityRating#. You decide to take them.",
+    "A #HumanoidRace# is trying to sell you a #ItemMaterial# #AnyObject#. They tell you how it was once owned by #FirstNameNeutral# #TheMoniker#. The craftsmanship is #QualityRating#.",
     "You uncover an old tome which tells the tale of #Incident#. After reading the tale, you feel #PresentEmotion#.",
-    "A #HumanoidPhysicalFull# walks by, wearing a #ArmorFull#. You feel #PresentEmotion#.",
-    "Passing through the #LocationFull#, you are #MeleeAttackType# by a #NonHumanoidFull#. You feel #PresentEmotion#.",
-    "A #HumanoidRace# is telling a story to a group of #HumanoidRace#. It's about #Incident#. The crowd starts to feel #PresentEmotion#.",
+    "Passing through the #LocationFull#, you are #MeleeAttackType# by a #NonHumanoidFull#. It barely penetrates your #ArmorFull#, and you manage to fend it off with your #MeleeWeaponFull#.",
+    "A #HumanoidRace# is telling a story to a group of #HumanoidRace#. It's about #Incident#. The story makes the crowd feel #PresentEmotion#.",
     "On your journey to the #LocationFull#, you see #Incident#.",
     "You are surrounded by a gang of #HumanoidRace#, each brandishing a #MeleeWeaponType#. They rob you of your #ItemFull#.",
-    "During a grueling battle against a #Beast# in the #LocationFull#, your compnaion - a #HumanoidPersonalityFull# - drops dead. You feel #PresentEmotion#.",
-    "You appraise the combat abilities of #HumanoidPersonalityFull#. Their movements are #QualityRating#.",
-    "You are hit on by a #HumanoidPersonalityFull#. Their appearance is #QualityRating#.",
-    "You discovered a riddle in the #LocationFull#. It points you in the direction of a #ItemFull#.",
-    "Rumor has it a #NonHumanoidFull# waits in the #LocationFull#. They say the one who slays it will receive a #ItemFull#.",
+    "During a grueling battle against a #Beast# in the #LocationFull#, your #Relationship# - a #HumanoidPersonalityFull# - drops dead. The loss makes you feel #PresentEmotion#.",
+    "You appraise the combat abilities of the #HumanoidPersonalityFull# who wields a #MeleeWeaponFull#. Their movements are #QualityRating#.",
+    "You are hit on by a #HumanoidPersonalityFull#, wearing a #ArmorFull#. Their appearance is #QualityRating#.",
+    "You discover a riddle in the #LocationFull#. It points you in the direction of a #ItemFull#, which is guarded by a #HumanoidPhysicalDescriptor# #AnyCreature#.",
+    "Rumor has it a #NonHumanoidFull# waits in the #Location#. They say the one who slays it will receive #NamedObject#.",
     "The #HumanoidPersonalityFull# is #MeleeAttackType# by the #Beast#. Their #ArmorFull# is torn by the attack!",
-    "You pass a statue depicting #Incident# in the #LocationFull#. The quality is #QualityRating#.",
+    "Wandering the #Location# you see a statue depicting #Incident#. The quality of the carving is #QualityRating#.",
     "A #NonHumanoidFull# searches the #LocationFull#, seeking #ItemType#s for its master.",
     "To your surprise, you find that everything in the #LocationFull# is made of #ItemMaterial#.",
     "A madman stands by the entrance to #LocationFull#, warning passers-by of #Incident#.",
     "You feel #PresentEmotion#. However, this changes when you see #Incident#.",
-    "You feel #PresentEmotion#, but this changes when you meet #HumanoidPersonalityFull#."
+    "You feel #PresentEmotion#, but this changes when you meet #HumanoidPersonalityFull#.",
+    "Wandering the #Location# you hear a #HumanoidRace# say, '#ConvoStatementCasual#'.",
+    "You overhear a pair of #HumanoidRace# talking in the #Location#. '#ConvoStatementCasual#', the one says to the other.",
+    "You overhear a pair of #HumanoidRace# talking in the #Location#. One says to the other, '#ConvoQuestionCasual#'.",
+    "While in the #Location# you are approached by a #HumanoidRace#. #SubjectPronoun.capitalize# says to you, '#ConvoQuestionCasual#'.",
+    "While you are resting in the #Location#, your #HumanoidRace# companion says to you, '#ConvoStatementCasual#'.",
+    "A #NonHumanoidFull# approaches you and says, '#ConvoStatementCasual#'.",
+    "A #NonHumanoidFull# approaches you and asks, '#ConvoQuestionCasual#'.",
+    "A #NonHumanoidFull# passes by you with their pet #AnyCreature# in tow. The collar on its neck says '#FirstNameNeutral#'.",
+    "A #HumanoidPhysicalFull# passes by you with their pet #AnyCreature# in tow.",
+    "As you do battle with the #NonHumanoidFull#, it roars, 'You cannot kill me, for I am #TheMoniker#'.",
+    "As acknowledgement of their feats, a #HumanoidRace# #HumanoidOccupation# named #FullNameNeutral# is given a new title; #SubjectPronoun.capitalize# shall now be known as #TheMoniker#.",
+    "You are now known as #TheMoniker#. You feel #PresentEmotion# about it.",
+    "You discover a #MeleeWeaponType# in the #LocationFull#. Upon picking it up, a voice declares: 'You shall forever be known as '#TheMoniker#'.",
+    "In a #ItemMaterial# chest you discover a #ItemType#. Upon picking it up, a voice declares: 'You shall forever be known as '#TheMoniker#'.",
+    "You complete a quest at the behest of a #HumanoidRace# #HumanoidOccupation#. In response, you become known far and wide as '#TheMoniker#'.",
+    "Blood and gore of #AnyCreature# bodies are littered all about the #LocationFull#. A lone #AnyCreature# remains standing among the mess. This must be the one known as #TheMoniker#.",
+    "As you offer a prayer at the #LocationAppearance# shrine, a voice calls out to you. It says, '#ConvoStatementCasual#'.",
+    "A #HumanoidRace# named #FullNameNeutral# introduces themselves to you. They are looking to obtain a #AnyObject#, and are willing to give you directions to #NamedLocation# in return.",
+    "You find yourself sitting next to a #HumanoidPhysicalFull#. #SubjectPronoun.capitalize# turn to you and say '#ConvoStatementCasual#'.",
+    "You dream of #Incident#. You wake feeling #PresentEmotion#.",
+    "Surrounded by a group of #Beast#, a #HumanoidRace# #HumanoidOccupation# is nearly #MeleeAttackType#. Fortunately, they are saved by #FirstNameNeutral# '#TheMoniker#' #LastName#, a #HumanoidPhysicalFull#.",
+    "You meet #FirstNameNeutral# '#TheMoniker#' #LastName#, a #HumanoidRace# who fights with a #AnyWeaponType#. They seem to be #HumanoidPersonalityDescriptor#."
   ]
 
 }
