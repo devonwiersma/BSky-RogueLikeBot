@@ -30,7 +30,7 @@
   ],
 
   "FullNameAndMoinker":[
-    "#FirstNameNeutral# #TheMoniker# #LastName#"
+    "#FirstNameNeutral# '#TheMoniker#' #LastName#"
   ],
 
   "FirstNameNeutral":[
@@ -47,6 +47,10 @@
   "FullNameNeutral":[
     "#FirstNameFemme# #LastName#",
     "#FirstNameMasc# #LastName#"
+  ],
+
+  "GodName":[
+    "Zeus", "Thor", "Freyja", "Choccoban", "Eilm", "Ema", "Ehrsan", "Toorta", "Mannin", "Minanin", "Bahhl", "Porin", "Pappi", "Oldfather", "Oldmother", "Alfather", "Almother", "Tut", "Gorizo", "Popo", "Wattsia", "Rel", "Ohn", "Yutil", "Harafara-Baramara", "Tendra", "Scorpio", "Uoowoo", "Pan", "Haggary", "Thelmor", "Hassain", "Fetlet", "Fet", "Mars", "Juno"
   ],
 
       "Relationship":[
@@ -189,7 +193,7 @@
     ],
 
     "Exclaimation": [
-      "Bark!","Gods!","Yeesh!","Ack!","Meow!","Yipp!","Amen!","Praise!","Protect me, #beast#!","Wow!","Zonks!","Egad!","Augh!","Owie!","Shoot!","Ballacks!","Rah!","Yeep!","Rargh!","Bah!","Mah!", "Wah!", "Weh!","#godName!","By #godName#!","Dear #godName#!"
+      "Bark!","Gods!","Yeesh!","Ack!","Meow!","Yipp!","Amen!","Praise!","Woagh!","Wow!","Zonks!","Egad!","Augh!","Owie!","Shoot!","Ballacks!","Rah!","Yeep!","Rargh!","Bah!","Mah!", "Wah!", "Weh!"
     ],
 
     "HumanoidPhysicalFull":[
@@ -209,9 +213,20 @@
     ],
 
     "NamedObject":[
-      "#FirstNameNeutral#'s #ItemType#",
-      "#FirstNameNeutral#'s #MeleeWeaponType#",
-      "#FirstNameNeutral#'s #RangedWeaponType#"
+      "#FirstNameNeutral#'s #ItemType.capitalize#",
+      "#FirstNameNeutral#'s #MeleeWeaponType.capitalize#",
+      "#FirstNameNeutral#'s #RangedWeaponType.capitalize#"
+    ],
+
+    "CardinalDirection":[
+      "north",
+      "south",
+      "east",
+      "west",
+      "north-west",
+      "north-east",
+      "south-east",
+      "south-west"
     ],
 
     "AnyWeaponType":[
@@ -248,8 +263,8 @@
       "a #NonHumanoidFull# that can turn anything into #ItemMaterial#",
       "a #HumanoidPersonalityFull# who is constantly feeling #PresentEmotion#",
       "an angry mob of #HumanoidRace# hunting a #Beast#",
-      "a #NonHumanoidFull# wrestling a #MeleeWeaponFull# from a #HumanoidPersonalityFull#'s hands",
-      "a lone #HumanoidPhysicalFull# single-handedly fighting an army of #HumanoidRace#",
+      "a #NonHumanoidFull# doing battle with a #HumanoidPersonalityFull#",
+      "a #HumanoidPhysicalFull# fighting back an army of #HumanoidRace#",
       "a #HumanoidPhysicalFull# wandering in search of a #ItemFull#",
       "a #NonHumanoidFull# terrorizing the #HumanoidRace# living in a #Location#",
       "a hero named #FirstNameNeutral# #TheMoniker# returning from battle",
@@ -286,7 +301,7 @@
       "Never met at #HumanoidRace# who was #HumanoidPhysicalDescriptor#",
       "I got #MeleeAttackType# by a #Beast# once",
       "I wonder how many #AnyCreature# there are in the world",
-      "I want a pet #AnyCreature#",
+      "I'd like a pet #AnyCreature#",
       "If I had a pet #Animal# I'd name it #FirstNameNeutral#",
       "My name is #FirstNameNeutral#, but everyone calls me #TheMoniker#",
       "My name used to be #FirstNameFemme#, but now I go by #FirstNameMasc#",
@@ -296,7 +311,24 @@
       "You seem like a #HumanoidPersonalityDescriptor# sort",
       "You're so #HumanoidPhysicalDescriptor#",
       "I'm actually related to #FullNameAndMoinker#, they're my #Relationship#",
-      "I heard #FirstNameNeutral#, the #HumanoidRace# #HumanoidOccupation# is the #Relationship# of #FirstNameNeutral# #TheMoniker#"
+      "I heard #FirstNameNeutral#, the #HumanoidRace# #HumanoidOccupation# is the #Relationship# of #FirstNameNeutral# #TheMoniker#",
+      "#GenericStatement#", "#GenericStatement#", "#GenericStatement#", "#GenericStatement#", "#GenericStatement#"
+    ],
+
+    "GenericStatement":[
+      "Long live the cause!",
+      "I'm so tired",
+      "I'm getting old",
+      "I'm so lost",
+      "Don't travel alone at night,or the bogeyman will get you",
+      "I'm getting sore",
+      "I could use a nap",
+      "I haven't rested in a while",
+      "I haven't eaten in a while",
+      "I'm hungry",
+      "Times are changing",
+      "The revolution is coming",
+      "Things are tough all over"
     ],
 
     "ConvoQuestionCasual":[
@@ -310,9 +342,9 @@
       "I'm travelling to #NamedLocation#. Do you know where it it?",
       "Have you seen a #AnyCreature# around here?",
       "Do you know how to get to #NamedLocation#?",
-      "I'm seeking an artefact called #NamedObject#. It's apparently #ItemAppearance#. Have you seen it?",
+      "I'm seeking an artefact called #NamedObject#. It's apparently made of #ItemMaterial#. Have you seen it?",
       "Do you know where I can find a #AnyObject# around here?",
-      "What do you know of the #HumanoidPersonalityFull# named #FullNameAndMoinker# who lives in #NamedLocation#?"
+      "What do you know of the #HumanoidPersonalityFull# named #FullNameAndMoinker#?"
     ],
 
     "Action":[
@@ -341,14 +373,14 @@
     "You uncover the body of a #HumanoidPhysicalFull#. They are wearing a #ArmorFull#. The quality is #QualityRating#. You decide to take them.",
     "A #HumanoidRace# is trying to sell you a #ItemMaterial# #AnyObject#. They tell you how it was once owned by #FirstNameNeutral# #TheMoniker#. The craftsmanship is #QualityRating#.",
     "You uncover an old tome which tells the tale of #Incident#. After reading the tale, you feel #PresentEmotion#.",
-    "Passing through the #LocationFull#, you are #MeleeAttackType# by a #NonHumanoidFull#. It barely penetrates your #ArmorFull#, and you manage to fend it off with your #MeleeWeaponFull#.",
+    "Passing through the #LocationFull#, you are #MeleeAttackType# by a #NonHumanoidFull#. The attack barely penetrates your #ArmorFull#. You manage to fend it off with your #MeleeWeaponType#.",
     "A #HumanoidRace# is telling a story to a group of #HumanoidRace#. It's about #Incident#. The story makes the crowd feel #PresentEmotion#.",
     "On your journey to the #LocationFull#, you see #Incident#.",
     "You are surrounded by a gang of #HumanoidRace#, each brandishing a #MeleeWeaponType#. They rob you of your #ItemFull#.",
     "During a grueling battle against a #Beast# in the #LocationFull#, your #Relationship# - a #HumanoidPersonalityFull# - drops dead. The loss makes you feel #PresentEmotion#.",
-    "You appraise the combat abilities of the #HumanoidPersonalityFull# who wields a #MeleeWeaponFull#. Their movements are #QualityRating#.",
-    "You are hit on by a #HumanoidPersonalityFull#, wearing a #ArmorFull#. Their appearance is #QualityRating#.",
-    "You discover a riddle in the #LocationFull#. It points you in the direction of a #ItemFull#, which is guarded by a #HumanoidPhysicalDescriptor# #AnyCreature#.",
+    "You appraise the combat abilities of the #HumanoidPersonalityFull# who is sparring with a #MeleeWeaponFull#. Their movements are #QualityRating#.",
+    "You are hit on by a #HumanoidPersonalityFull#. Their looks are #QualityRating#.",
+    "You discover a riddle in the #Location#. It points you in the direction of a #ItemType#, which is guarded by a #HumanoidPhysicalDescriptor# #AnyCreature#.",
     "Rumor has it a #NonHumanoidFull# waits in the #Location#. They say the one who slays it will receive #NamedObject#.",
     "The #HumanoidPersonalityFull# is #MeleeAttackType# by the #Beast#. Their #ArmorFull# is torn by the attack!",
     "Wandering the #Location# you see a statue depicting #Incident#. The quality of the carving is #QualityRating#.",
@@ -375,10 +407,19 @@
     "Blood and gore of #AnyCreature# bodies are littered all about the #LocationFull#. A lone #AnyCreature# remains standing among the mess. This must be the one known as #TheMoniker#.",
     "As you offer a prayer at the #LocationAppearance# shrine, a voice calls out to you. It says, '#ConvoStatementCasual#'.",
     "A #HumanoidRace# named #FullNameNeutral# introduces themselves to you. They are looking to obtain a #AnyObject#, and are willing to give you directions to #NamedLocation# in return.",
-    "You find yourself sitting next to a #HumanoidPhysicalFull#. #SubjectPronoun.capitalize# turn to you and say '#ConvoStatementCasual#'.",
+    "You find yourself sitting next to a #HumanoidPhysicalFull#. They turn to you and say '#ConvoStatementCasual#'.",
     "You dream of #Incident#. You wake feeling #PresentEmotion#.",
     "Surrounded by a group of #Beast#, a #HumanoidRace# #HumanoidOccupation# is nearly #MeleeAttackType#. Fortunately, they are saved by #FirstNameNeutral# '#TheMoniker#' #LastName#, a #HumanoidPhysicalFull#.",
-    "You meet #FirstNameNeutral# '#TheMoniker#' #LastName#, a #HumanoidRace# who fights with a #AnyWeaponType#. They seem to be #HumanoidPersonalityDescriptor#."
+    "You meet #FirstNameNeutral# '#TheMoniker#' #LastName#, a #HumanoidRace# who fights with a #AnyWeaponType#. They seem to be #HumanoidPersonalityDescriptor#.",
+    "'#ConvoQuestionCasual#', asks the #HumanoidPhysicalFull# to no one in particular.",
+    "'#ConvoStatementCasual#', the #HumanoidPhysicalFull# says to no one in particular.",
+    "In the silence of the #LocationFull#, you hear a voice cry out from somewhere: '#Exclaimation#'",
+    "The realm is overseen by a #HumanoidRace# named #FirstNameNeutral# #TheMoniker#. They rule the land from #NamedLocation# all the way to #NamedLocation#.",
+    "The #HumanoidRace# are known widely as a #HumanoidPhysicalDescriptor# race. They fight with #MeleeWeaponType# and follow a leader known as #TheMoniker#.",
+    "A #AnyCreature# stalks the lands around #NamedLocation#. They say #AnyCreature# are its meal of choice.",
+    "The #HumanoidRace# to the #CardinalDirection.capitalize# worship a God they call #GodName#, #TheMoniker# God. They can be identified by the #ItemType# they carry on them, as a sign of their worship.",
+    "The #HumanoidRace# to the #CardinalDirection.capitalize# worship #GodName#, #TheMoniker# God. They are said to be masters at fighting with #MeleeWeaponType#.",
+    "A cult has begun gathering near #NamedLocation#. It is said they are carrying out sacrifices of #Animal# to pay homage to  #GodName#, #TheMoniker# God."
   ]
 
 }
